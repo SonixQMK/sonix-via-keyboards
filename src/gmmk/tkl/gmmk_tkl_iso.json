@@ -2,7 +2,7 @@
     "name": "GMMK TKL ISO",
     "lighting": "none",
     "vendorId": "0x0c45",
-    "productId": "0x652f",    
+    "productId": "0x6532",
     "matrix": {"rows": 7, "cols": 13},
     "layouts": {
             "keymap": [

@@ -2,7 +2,7 @@
     "name": "GMMK TKL ANSI",
     "lighting": "none",
     "vendorId": "0x0c45",
-    "productId": "0x652f",    
+    "productId": "0x6531",
     "matrix": {"rows": 7, "cols": 13},
     "layouts": {
             "keymap": [

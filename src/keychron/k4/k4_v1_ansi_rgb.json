@@ -1,7 +1,7 @@
 {
     "name": "Keychron K4 ANSI",
     "vendorId": "0x3434",
-    "productId": "0xFE06",
+    "productId": "0xFE07",
     "lighting": "none",
     "matrix": {"rows": 6, "cols": 19},
     "layouts": {

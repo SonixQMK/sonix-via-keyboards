@@ -1,7 +1,7 @@
 {
   "name": "Keychron K8 ANSI",
   "vendorId": "0x3434",
-  "productId": "0xFE0E",
+  "productId": "0xFE0F",
   "lighting": {
     "extends": "qmk_rgblight",
     "underglowEffects": [

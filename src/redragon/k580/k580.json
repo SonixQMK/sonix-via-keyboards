@@ -1,7 +1,7 @@
 {
     "name": "Redragon K580 VATA",
     "vendorId": "0x0C45",
-    "productId": "0x5004",
+    "productId": "0x5005",
     "lighting": {
       "extends": "qmk_rgblight",
       "underglowEffects": [

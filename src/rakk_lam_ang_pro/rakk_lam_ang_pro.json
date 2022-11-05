@@ -1,7 +1,7 @@
 {
   "name": "Rakk Lam Ang Pro",
   "vendorId": "0x3434",
-  "productId": "0xFE0E",
+  "productId": "0xFE10",
   "lighting": {
     "extends": "qmk_rgblight",
     "underglowEffects": [
