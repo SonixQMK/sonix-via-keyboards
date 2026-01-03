@@ -1,5 +1,5 @@
 {
-  "name": "Aykey KM-G12 ISO",
+  "name": "Aukey KM-G12 ISO",
   "vendorId": "0x0C45",
   "productId": "0x7040",
   "menus": ["qmk_rgb_matrix"],
